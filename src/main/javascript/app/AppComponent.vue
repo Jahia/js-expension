@@ -1,6 +1,6 @@
 <template>
     <div v-bind:style="styles">
-       <h1>Experimental app with DX, VueJS and Javascript Loader</h1>
+       <h1>Experimental app with DX, VueJS (I'am dynamic!!!)</h1>
    </div>
 </template>
 <script>
